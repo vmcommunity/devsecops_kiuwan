@@ -131,3 +131,6 @@ dmypy.json
 # ignore any files in output except for README.md
 /output/*.csv
 
+# pycharm
+.idea/*
+
